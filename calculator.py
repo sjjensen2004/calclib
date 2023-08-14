@@ -17,3 +17,6 @@ def multiply(first_term, second_term):
 
 def division(fn, sn):
     return fn / sn
+
+
+print(division(100, 10))

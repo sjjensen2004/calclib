@@ -16,6 +16,6 @@ class TestCalculator:
         assert 100 == calculator.multiply(10, 10)
 
     def test_division(self):
-        assert 10 == calculator.division(100, 10)
+        assert 10.0 == calculator.division(100, 10)
 
     
